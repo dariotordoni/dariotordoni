@@ -5,4 +5,4 @@
 -->
 Hi, I am passionate about the digital world and pythonist in my spare time. I work as a digital analyst and believe in 'T' shaped skills.
 
-I am passionate about programming and fascinated by the world of open source. When I can, I dedicate some time to my personal blog at [dariotordoni.it](https://www.dariotordoni.it) (in Italian for now). :computer:
+I like programming and I'm fascinated by the world of open source. When I can, I dedicate some time to my personal blog at [dariotordoni.it](https://www.dariotordoni.it) (in Italian for now). :computer:
