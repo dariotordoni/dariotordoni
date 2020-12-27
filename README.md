@@ -6,4 +6,4 @@ Hi, I am passionate about the digital world and pythonist in my spare time. I wo
 I like programming and I'm fascinated by the world of open source. When I can, I dedicate some time to my personal blog at [dariotordoni.it](https://www.dariotordoni.it) (in Italian for now). :computer:
 
 
-Img background by [jpargeter](https://it.freepik.com/vectors/banner)
+Img background by [kjpargeter](https://it.freepik.com/kjpargeter)
